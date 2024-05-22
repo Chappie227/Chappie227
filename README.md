@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate and participate in outsourcing projects
 - 📫 How to reach me: Email is best at hchappell16@gmail.com
 - 😄 Pronouns: She/Her
+- Resume: 
+- LinkedIn: www.linkedin.com/in/hannah-chappell227
 
 
 <!---
