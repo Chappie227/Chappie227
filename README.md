@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and participate in outsourcing projects
 - 📫 How to reach me: Email is best at hchappell16@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 <!---
 Chappie227/Chappie227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
