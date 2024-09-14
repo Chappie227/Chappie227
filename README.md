@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @Chappie227
-- 👀 I’m interested in finding new opportunities to help me put my knowledge of SQL, Tableau, and Power BI to use
-- 🌱 I’m currently learning some basic in Pytheon
-- 💞️ I’m looking to collaborate and participate in outsourcing projects
-- 📫 How to reach me: Email is best at hchappell16@gmail.com
-- 😄 Pronouns: She/Her
-- Resume: https://docs.google.com/document/d/1ByzfF1Q7f7JwUnN39nMVpAoALkRUJCKId181V6slpTk/edit
-- LinkedIn: www.linkedin.com/in/hannah-chappell227
+# BI_Projects_TripleTen
+
+Projects I worked on while attending the Business Intelligence Data Analysis TripleTen Bootcamp.
 
 
-<!---
-Chappie227/Chappie227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Advanced Spreadsheets: Project| The project task was to help a client analyze the vacation rental market in the Manhattan borough of New York City. |
+| 2 | Business Analytics Project | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers. |
+| 3 | [Zomato Final Project](https://github.com/Chappie227/BI_Projects_TripleTen/tree/main/Zomato%20Final%20Project) | This final project is to find out what makes a restaurant popular and provide some recommendations to keep these restaurants successful. Specifically looking into different factors such as location, ratings, rating count, cuisine type and revenue.
