@@ -1,5 +1,7 @@
 # BI_Projects_TripleTen
 
+https://github.com/Chappie227/BI_Projects_TripleTen
+
 Projects I worked on while attending the Business Intelligence Data Analysis TripleTen Bootcamp.
 
 
